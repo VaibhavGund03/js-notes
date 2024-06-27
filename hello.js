@@ -13,3 +13,6 @@ console.log("hello world");
 console.log("1+2");
 
 console.log("vaibhav");
+
+
+// javascript is dynamically typed language it means  do not use any data type.
