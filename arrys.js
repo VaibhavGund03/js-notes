@@ -43,3 +43,5 @@ console.log.log()
 
 // iterable it means an object that can loop over
 
+let stdName = ["vaibhav","rahul","onkar","omkar"];
+for(let idx=0);
