@@ -28,7 +28,7 @@ console.log(heros);
 // array indices
 /*
 let marks = [67,77,87,88,79,99];
-console.log(marks[0],marks[1],marks[2]);
+console.log(marks[0],marks[1],marks[2]);;
 */
 
 let score = [90,98,89,87,77];
