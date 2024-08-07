@@ -35,4 +35,5 @@ if(score>90 && score<100){
 
     console.log("please inter the valid marks");
 
-}
+}//FINISH
+
